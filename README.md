@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**keeertu/keeertu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Keerat**, a Data Science & AI student based in India.
 
-Here are some ideas to get you started:
+I like building things and figuring out how they work.  
+If an idea sticks in my head, chances are I’ll try to turn it into a project and see how far it goes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests revolve around machine learning, reinforcement learning, and systems, and I enjoy experimenting with Python and Linux-based workflows. I like learning by building, breaking things, and improving them over time.
+
+I’ve worked on a few projects so far, mostly focused on ML and RL, and I’m always exploring new ideas and directions.
+
+### Fun facts:
+- I enjoy reading books and comics  
+- I play guitar in my free time  
+- I like writing and sketching occasionally  
+- I have a dog 🐶  
+- I prefer building things over just reading about them
