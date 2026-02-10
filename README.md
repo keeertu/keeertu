@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hello There! 👋
 
 I'm **Keerat**, a Data Science & AI student based in India.
 
